@@ -81,8 +81,8 @@ describe. I will additionally be blogging at the 30, 60, and 100 day increments
 to provide status on my goals.
 2. Follow me on [Twitter](https://twitter.com/NickHartung). I will be providing 
 daily updates.
-3. Star my [Github repository](TODO) where I will be leaving more detailed daily
- notes on my progress.
+3. Star my [Github repository](https://github.com/nhartung/100-days-of-code) 
+where I will be leaving more detailed daily notes on my progress.
 
 
 I hope to interact with you as I progress. Wish me luck!
